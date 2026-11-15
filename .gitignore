@@ -1,0 +1,4 @@
+.venv/
+**/.venv/
+data/raw/audio/
+data/raw/video/
