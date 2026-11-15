@@ -1,4 +1,5 @@
 .venv/
 **/.venv/
+.vscode/
 data/raw/audio/
 data/raw/video/
